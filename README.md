@@ -3,11 +3,18 @@ Repository for ideas
 
 Hello Everyone, 
 
-Nublet here. I have basic C++ programming skills with limited knowledge of OOP.
-Currently a student through the OSU Computer Science Post-Bacc program. It took
-entirely too long to figure out I enjoy working with data sets and numbers and 
-not medicine or lab bench science. I hope to continue learning and using the 
-resources on the web as vehicles to foster opportunities for learning and insight
-into the field of CS. 
+I hope to show through hard work and the right mindset it's not only possible to learn 
+programming and computer science, but it's probable. Solving problems and helping others
+learn how to problem-solve is a worthwhile cause. 
 
-Free to ask questions!
+Currently I have basic C++ programming skills with limited knowledge of OOP. Working 
+through the chapter-based programming assignments.
+
+I plan to return the knowledge that helped me learn with repositories of chapter-based 
+programming assignments -- difficulty ranging easy to hard. I will also include modified 
+versions of school projects to show competency from a reputable CS program at OSU. 
+In addition you will find various projects related to interests. 
+
+Feel free to critique or ask questions!
+
+Ciao 
